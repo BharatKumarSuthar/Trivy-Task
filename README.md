@@ -1,16 +1,12 @@
-# app
+# App
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Description
+App contain single Home Screen with great UI with a simple Splash Screen.Home Screen contains a freeze action button.On button click card display card details with animation.Ater animation is over we can see card details.
 
-This project is a starting point for a Flutter application.
+## External Packages Used
+flutter_riverpod -For state management to improve performance.
+faker- to generate random data.
+snow_fall_animation-For snow animation
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
